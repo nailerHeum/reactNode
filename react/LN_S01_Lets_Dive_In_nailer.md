@@ -1,6 +1,6 @@
 ### React 질문 좌표
 
-![image-20181227175528454](/Users/csheum/Desktop/nodeReact/assets/image-20181227175528454-5900928.png)
+![image-20181227175528454](./assets/image-20181227175528454-5900928.png)
 
 
 
@@ -34,7 +34,7 @@ ES2015 기반...
 
 
 
-![image-20181227183738139](/Users/csheum/Desktop/nodeReact/assets/image-20181227183738139-5903458.png)
+![image-20181227183738139](./assets/image-20181227183738139-5903458.png)
 
 
 
@@ -60,7 +60,7 @@ babel을 통해 ES6코드를 ES5로 변환하여 보여준다.
 
 
 
-![image-20181229153322458](/Users/csheum/Desktop/nodeReact/assets/image-20181229153322458-6065202.png)
+![image-20181229153322458](./assets/image-20181229153322458-6065202.png)
 
 
 
@@ -68,7 +68,7 @@ babel을 통해 ES6코드를 ES5로 변환하여 보여준다.
 
 ### 7. exploring create-react-app project
 
-![image-20181229153447920](/Users/csheum/Desktop/nodeReact/assets/image-20181229153447920-6065287.png)
+![image-20181229153447920](./assets/image-20181229153447920-6065287.png)
 
 ### public
 
@@ -134,7 +134,7 @@ const React = require('react'); 를 대체한다.
 
 ### 10.Displaying content with Functional Components
 
-![image-20181229155811668](/Users/csheum/Desktop/nodeReact/assets/image-20181229155811668-6066691.png)
+![image-20181229155811668](./assets/image-20181229155811668-6066691.png)
 
 JSX를 사용하여 user에게 보여주기 먼저
 

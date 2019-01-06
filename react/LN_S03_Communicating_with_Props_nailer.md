@@ -34,7 +34,7 @@ fake js 사용할 것이다.
 
 ### 7. Extracting JSX to New Components
 
-![image-20190102151028702](/Users/csheum/Desktop/nodeReact/react/assets/image-20190102151028702-6409428.png)
+![image-20190102151028702](./assets/image-20190102151028702-6409428.png)
 
  
 

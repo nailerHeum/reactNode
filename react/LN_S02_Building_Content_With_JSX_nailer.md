@@ -10,7 +10,7 @@ babeljs.io를 방문해본다
 
 ES5에 맞는 코드로 변환해준다. 
 
-![image-20181231190741337](/Users/csheum/Desktop/nodeReact/assets/image-20181231190741337-6250861.png)
+![image-20181231190741337](./assets/image-20181231190741337-6250861.png)
 
 훨씬 쉬운 코드로 작성가능
 
@@ -26,7 +26,7 @@ return 과 같은 라인에 component가 있어야한다.
 
 \<div>를 아래로 내리고 싶다면 ();로 묶으면 됨
 
-![image-20181231192949392](/Users/csheum/Desktop/nodeReact/assets/image-20181231192949392-6252189.png)
+![image-20181231192949392](./assets/image-20181231192949392-6252189.png)
 
 ### 3. Inline styling with JSX
 
